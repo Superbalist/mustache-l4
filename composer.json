@@ -4,6 +4,7 @@
     "description": "A Mustache.php wrapper for Laravel 4",
     "keywords": [ "laravel", "laravel 4", "mustache", "php" ],
     "homepage": "https://github.com/superbalist/mustache-l4",
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [ { } ],
     "require": {
@@ -15,7 +16,5 @@
         "psr-0": {
             "Conarwelsh\\MustacheL4": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
-
